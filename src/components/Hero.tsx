@@ -13,11 +13,16 @@ export default function Hero() {
         className="grid md:grid-cols-[1fr_auto] gap-10 items-center"
       >
         <div>
-          <p className="text-sm font-medium text-zinc-500 mb-4">
-            Hi, I&apos;m Adhithya -
-          </p>
+          <div className="flex items-center gap-2 mb-4">
+            <span className="inline-flex items-center rounded-full bg-violet-500/10 border border-violet-500/30 text-violet-200 text-[11px] font-semibold px-2.5 py-0.5 uppercase tracking-wider">
+              Growth × AI
+            </span>
+            <span className="text-sm font-medium text-zinc-500">
+              Hi, I&apos;m Adhithya
+            </span>
+          </div>
           <h1 className="text-4xl sm:text-6xl font-semibold tracking-tight leading-[1.05] max-w-3xl text-zinc-50">
-            Growth Marketing & AI Leader -{" "}
+            AI-Powered Growth Marketer -{" "}
             <span className="text-zinc-500">
               Digital, SEM, SEO & Paid Media.
             </span>
@@ -46,6 +51,28 @@ export default function Hero() {
               <Mail className="w-4 h-4" /> Contact
             </a>
           </div>
+          <div className="mt-8 flex flex-wrap gap-2">
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              $1.4M+ managed media
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              16x ROAS
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              Anthropic Certified
+            </span>
+          </div>
+          <div className="mt-8 flex flex-wrap gap-2">
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              $1.4M+ managed media
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              16x ROAS
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              Anthropic Certified
+            </span>
+          </div>
         </div>
 
         <div className="relative shrink-0 justify-self-start md:justify-self-end">
@@ -57,8 +84,8 @@ export default function Hero() {
               className="w-full h-full object-cover"
             />
           </div>
-          <span className="absolute -bottom-1 left-1/2 -translate-x-1/2 flex items-center gap-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/40 text-emerald-300 text-[11px] font-semibold px-2.5 py-1 whitespace-nowrap">
-            <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse" />
+          <span className="absolute -bottom-1 left-1/2 -translate-x-1/2 flex items-center gap-1.5 rounded-full bg-violet-500/10 border border-violet-500/40 text-violet-300 text-[11px] font-semibold px-2.5 py-1 whitespace-nowrap">
+            <span className="h-1.5 w-1.5 rounded-full bg-violet-400 animate-pulse" />
             Open to work
           </span>
         </div>
