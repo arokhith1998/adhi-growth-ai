@@ -5,7 +5,7 @@ const jobs = [
     period: "Sep 2024 – Present",
     location: "Boston, MA",
     summary:
-      "Leading GTM strategy, positioning, and pricing for new sensing products across North America and Europe.",
+      "Driving growth marketing for new sensing products across NA and EU - GTM, demand gen, and AI-assisted content and attribution tooling feeding the sales pipeline.",
   },
   {
     company: "Sensata Technologies",
@@ -13,7 +13,7 @@ const jobs = [
     period: "Jun 2024 – Aug 2024",
     location: "Attleboro, MA",
     summary:
-      "Supported product marketing for new sensing lines - competitive research, pricing analysis, and content for sales enablement.",
+      "Ran competitive research, pricing teardowns, and demand-gen content for new sensing lines, leaning on AI tools to accelerate research-to-asset cycles.",
   },
   {
     company: "Plug Power",
@@ -21,7 +21,7 @@ const jobs = [
     period: "Oct 2022 – Jul 2023",
     location: "Latham, NY",
     summary:
-      "Owned PPC, display, and the MarTech stack - delivered −25% CPA and +20% conversion rate through bid and audience optimization.",
+      "Owned PPC, display, and the MarTech stack across Google, Meta, and LinkedIn - delivered −25% CPA and +20% conversion rate; layered automation and ML-style bidding into the playbook.",
   },
   {
     company: "Pixis",
@@ -29,7 +29,7 @@ const jobs = [
     period: "Jul 2021 – Sep 2022",
     location: "Bangalore, India",
     summary:
-      "Managed $1.4M in media budgets across global D2C clients; delivered 3x ROAS and cut churn 50% while directing an 8-person team.",
+      "Managed $1.4M media budgets on an AI adtech platform across global D2C clients - 3x ROAS, 50% churn reduction, leading an 8-person team using AI-driven optimization.",
   },
   {
     company: "GenY Medium",
@@ -37,7 +37,7 @@ const jobs = [
     period: "Jan 2020 – Jun 2021",
     location: "Hyderabad, India",
     summary:
-      "Delivered 16x ROAS for a D2C brand by rebuilding Google Merchant Center and Meta catalog feeds and launching structured Shopping + Advantage+ campaigns.",
+      "Delivered 16x ROAS for a D2C brand by rebuilding Merchant Center / Meta catalogs and launching structured Shopping + Advantage+ - early hands-on with ML-driven Smart Shopping.",
   },
 ];
 
