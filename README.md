@@ -1,3 +1,3 @@
-# Adhi — Growth + AI Portfolio
+# Adhi - Growth × AI Portfolio
 
-Digital, SEM, SEO, Paid Media and AI-powered products.
+Growth Marketing with AI-native product building.

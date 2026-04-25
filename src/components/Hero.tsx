@@ -22,13 +22,13 @@ export default function Hero() {
             </span>
           </div>
           <h1 className="text-4xl sm:text-6xl font-semibold tracking-tight leading-[1.05] max-w-3xl text-zinc-50">
-            AI-Powered Growth Marketer -{" "}
+            Growth Marketer -{" "}
             <span className="text-zinc-500">
               Digital, SEM, SEO & Paid Media.
             </span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg text-zinc-400 leading-relaxed">
-            4+ years driving growth across paid advertising, SEM, SEO, and performance marketing - plus building AI-powered products like SwipeHire and NSE-Bot. $1.4M+ in managed media budgets, 16x ROAS rebuilds, and AI-assisted attribution stacks. Anthropic certified. M.S. Marketing Analytics with a Pricing specialization - Simon Business School, University of Rochester. Based in Boston, MA.
+            Performance marketer with 4+ years running PPC, display, Shopping, and SEO, paired with a serious AI-builder sideline. $1.4M+ managed media, 16x ROAS rebuilds, -25% CPA at Plug Power, and shipping AI-native products like SwipeHire and NSE-Bot on the side. Anthropic certified. M.S. Marketing Analytics - Simon Business School. Based in Boston, MA.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
@@ -51,23 +51,13 @@ export default function Hero() {
               <Mail className="w-4 h-4" /> Contact
             </a>
           </div>
-          <div className="mt-8 flex flex-wrap gap-2">
+
+          <div className="mt-6 flex flex-wrap gap-2">
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
               $1.4M+ managed media
             </span>
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              16x ROAS
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              Anthropic Certified
-            </span>
-          </div>
-          <div className="mt-8 flex flex-wrap gap-2">
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              $1.4M+ managed media
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              16x ROAS
+              16x ROAS rebuild
             </span>
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
               Anthropic Certified

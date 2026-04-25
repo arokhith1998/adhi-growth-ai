@@ -7,7 +7,7 @@ export default function About() {
       <div className="mt-6 grid md:grid-cols-5 gap-10">
         <div className="md:col-span-3 space-y-4 text-zinc-300 leading-relaxed">
           <p>
-            I live at the intersection of paid media and AI - <strong className="text-zinc-100">paid advertising</strong>, <strong className="text-zinc-100">SEM</strong>, <strong className="text-zinc-100">SEO</strong>, <strong className="text-zinc-100">performance marketing</strong>, and <strong className="text-zinc-100">AI-driven products</strong>. Four years running PPC, display, and Shopping campaigns for B2B and D2C ecommerce brands, paired with shipping AI tools like SwipeHire (AI job matching) and NSE-Bot (paper-trading with live market signals).
+            I run growth the modern way - <strong className="text-zinc-100">PPC</strong>, <strong className="text-zinc-100">SEM</strong>, <strong className="text-zinc-100">SEO</strong>, and <strong className="text-zinc-100">performance marketing</strong>, with <strong className="text-zinc-100">AI</strong> baked into how I think about campaigns, attribution, and automation. Four years in the paid media stack plus shipping AI products like SwipeHire (AI job matching) and NSE-Bot (paper-trading with live signals).
           </p>
           <p>
             I&apos;m drawn to the problems where the answer sits at the
@@ -31,7 +31,7 @@ export default function About() {
               </div>
               <div className="flex justify-between">
                 <dt className="text-zinc-500">Focus</dt>
-                <dd className="text-zinc-100">Growth · AI-assisted</dd>
+                <dd className="text-zinc-100">Growth · AI-fluent</dd>
               </div>
               <div className="flex justify-between">
                 <dt className="text-zinc-500">Building</dt>
