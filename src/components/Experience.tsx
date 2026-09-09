@@ -1,5 +1,13 @@
 const jobs = [
   {
+    company: "Pricekeel",
+    role: "Founder",
+    period: "May 2026 - Present",
+    location: "Boston, MA",
+    summary:
+      "Founder of Pricekeel - AI-native pricing intelligence for growth teams. Elasticity signals, competitor tracking, and price experiments wired into the same paid/SEO/CRM stacks growth marketers already use.",
+  },
+  {
     company: "Sensata Technologies",
     role: "Growth & Product Marketing",
     period: "Sep 2024 – Present",
