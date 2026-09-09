@@ -5,7 +5,7 @@ const jobs = [
     period: "May 2026 - Present",
     location: "Boston, MA",
     summary:
-      "Founder of Pricekeel - AI-native pricing intelligence for growth teams. Elasticity signals, competitor tracking, and price experiments wired into the same paid/SEO/CRM stacks growth marketers already use.",
+      "Founder of Pricekeel - AI-driven decision-integrity layer for B2B SaaS deal pricing. Reads live discount exceptions, recommends explainable guardrails trained on the company's own won-and-lost deals, and records the human decision with Finance-auditable evidence. Margin layer next.",
   },
   {
     company: "Sensata Technologies",
